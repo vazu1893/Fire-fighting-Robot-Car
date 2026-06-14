@@ -325,15 +325,3 @@ Swap motor wires or modify motor control logic in the code.
 * Camera streaming
 * Mobile app interface
 * PWM speed control
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-Developed using ESP32, Bluetooth Classic, and L298N Motor Driver for educational and robotics projects.
